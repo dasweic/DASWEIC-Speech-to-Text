@@ -6,3 +6,11 @@ or duration constraints.
 
 The system supports both `.mp3` and `.wav` formats and is designed to handle
 long-form audio efficiently while maintaining high transcription accuracy.
+
+## Usage
+
+Provide the path of any `.mp3` or `.wav` audio file inside the script
+and run the program:
+
+```bash
+python main.py
